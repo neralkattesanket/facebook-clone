@@ -3,6 +3,7 @@ import Header from './Header'
 import styled from 'styled-components'
 import Sidebar from './Sidebar'
 import Feed from "./Feed"
+import React from 'react'
 
 function App() {
   return (
