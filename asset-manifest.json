@@ -1,7 +1,7 @@
 {
   "main.css": "/facebook-clone/static/css/main.16859569.chunk.css",
-  "main.js": "/facebook-clone/static/js/main.3214ce15.chunk.js",
-  "main.js.map": "/facebook-clone/static/js/main.3214ce15.chunk.js.map",
+  "main.js": "/facebook-clone/static/js/main.4aa65eeb.chunk.js",
+  "main.js.map": "/facebook-clone/static/js/main.4aa65eeb.chunk.js.map",
   "runtime~main.js": "/facebook-clone/static/js/runtime~main.b8910374.js",
   "runtime~main.js.map": "/facebook-clone/static/js/runtime~main.b8910374.js.map",
   "static/js/2.bca92e6b.chunk.js": "/facebook-clone/static/js/2.bca92e6b.chunk.js",
@@ -9,7 +9,7 @@
   "static/js/3.40d1f8f4.chunk.js": "/facebook-clone/static/js/3.40d1f8f4.chunk.js",
   "static/js/3.40d1f8f4.chunk.js.map": "/facebook-clone/static/js/3.40d1f8f4.chunk.js.map",
   "index.html": "/facebook-clone/index.html",
-  "precache-manifest.a4ee00563ad8f68b34aa2148696373ce.js": "/facebook-clone/precache-manifest.a4ee00563ad8f68b34aa2148696373ce.js",
+  "precache-manifest.51b20a244aced14753552619f3682f90.js": "/facebook-clone/precache-manifest.51b20a244aced14753552619f3682f90.js",
   "service-worker.js": "/facebook-clone/service-worker.js",
   "static/css/main.16859569.chunk.css.map": "/facebook-clone/static/css/main.16859569.chunk.css.map"
 }

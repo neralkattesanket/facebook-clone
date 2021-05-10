@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "82ccc662d678ece84d39",
+    "revision": "4ae4530940b9d639c501",
     "url": "/facebook-clone/static/css/main.16859569.chunk.css"
   },
   {
-    "revision": "82ccc662d678ece84d39",
-    "url": "/facebook-clone/static/js/main.3214ce15.chunk.js"
+    "revision": "4ae4530940b9d639c501",
+    "url": "/facebook-clone/static/js/main.4aa65eeb.chunk.js"
   },
   {
     "revision": "2f839d5a29094a735cdb",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/facebook-clone/static/js/3.40d1f8f4.chunk.js"
   },
   {
-    "revision": "94e8550c1a27aeb28e2bf7c1df87c44b",
+    "revision": "ff3b79405466875cc6977354d296975c",
     "url": "/facebook-clone/index.html"
   }
 ];
